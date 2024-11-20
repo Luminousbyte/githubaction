@@ -1,6 +1,6 @@
-from src.math_operations import addition,subtraction
+from src.math_operations import additionition, subtractiontraction
 
-def test_add():
+def test_addition():
     assert addition(2,3)==5
     assert addition(-1,1)==0
     
