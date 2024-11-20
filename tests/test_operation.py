@@ -1,4 +1,4 @@
-from src.math_operations import additionition, subtractiontraction
+from src.math_operations import addition, subtraction
 
 def test_addition():
     assert addition(2,3)==5
